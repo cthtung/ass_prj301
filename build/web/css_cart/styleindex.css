@@ -1,0 +1,94 @@
+
+.container{
+    width: 100%;
+    padding: 0;
+}
+
+.header{
+    margin: 10px;
+    text-align: center;
+
+}
+
+.header-title {
+    margin-top: 2%;
+}
+
+.header-title h3{
+    font-style: italic;
+    color: red;
+}
+
+.header-search{
+    margin-top: 3%;
+    align-items: center;
+}
+
+.header-logo img{
+    width: 30%;
+    height: 80px;
+}
+
+.navbar-menu{
+    margin-left: 30%;
+}
+
+.container-de h1{
+    margin: 30px;
+    text-align: center;
+    color: rgb(34, 186, 186);
+}
+
+.container-de p{
+    margin-right: 10px;
+    text-align: justify;
+    font-size: medium;
+    margin-left: 10px;
+}
+
+.content-item img{
+    width: 50%;
+    margin-left: 30%;
+}
+
+.content-item-2 img{
+    margin-left: 10%;
+    width: 80%;
+}
+
+.best-seller h1{
+    text-align: center;
+    color: rgb(34, 186, 186);
+}
+
+.best-seller h3{
+    margin-left: 10%;
+    color: rgb(237, 146, 8);
+}
+
+.best-seller p {
+    text-align: justify;
+    margin-left: 10%;
+}
+
+.best-seller img{
+    margin-left: 10%;
+    width: 50%;
+}
+
+.content-order h1{
+    color: rgb(34, 186, 186);
+    text-align: center;
+}
+
+.content-form{
+    width: 90%;
+    margin-left: 5%;
+}
+
+.footer{
+    padding: 10px;
+    color: white;
+    background-color: rgb(34, 186, 186);
+    text-align: center;
+}
